@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Lobster&family=Manrope:wght@200..800&display=swap');
+.img-h1-p{
+    display: flex;
+
+}
+
+.img-card{
+    /* height: 440px; */
+    width: 45%;
+}
+.h1-card{
+    font-family: "Lobster";
+}
+.p-card{
+ font-family: "Dela Gothic One";
+}
+.img-card{
+    border-radius: 50px;
+}
+
+.list{
+    font-family: "Manrope";
+    font-size: 25px;
+    font-weight: 300px;
+}
+
+.button{
+    border: 15px;
+    background-color: #96694C;
+    border-color: #5B371F;
+    text-decoration: none;
+}
