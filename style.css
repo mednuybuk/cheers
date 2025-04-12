@@ -7,7 +7,7 @@
     margin:10px ;
     font-size: 12px;
 }
-body {
+body, p {
     margin: 0;
 }
 
@@ -22,16 +22,17 @@ body {
     grid-template-rows:repeat(3, fr) ;
     background-color:#AEA993 ;
     border: 1px solid green ;
-
+    margin-bottom: 0;
 }
 
 
 .footer{
     background-image: url('foot.avif');
     width:100vw ;
-    height:150px ;
+    height:145px ;
     font-size: 29px;
     margin: 0;
+    
 }
 
 .image1 {
